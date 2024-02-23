@@ -1,2 +1,2 @@
 # Python
-Curso - Hashtag Programação
+Exercícios, desafios, mentorias, explicações e definições.
